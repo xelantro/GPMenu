@@ -1,0 +1,11 @@
+name = "GP Menu";
+picture = "";
+hidePicture = 0;
+hideName = 0;
+author = "Xelantro";
+actionName = "Website";
+action = "https://gamerparty.eu";
+description = "Custom Main Menu";
+logo = "\GPMenu\image\gpicon_small.paa";
+logoOver = "\GPMenu\image\gpicon_color_small.paa";
+overview = "A GP themed main menu with screenshots from our missions and selectable music!";
